@@ -1,8 +1,13 @@
-[{'GUID_FASCICOLO': 'BB8FE451-792A-4A0C-9993-9AD17F928592',
- 'CANALE': 'RAI TRE',
- 'PTIMESTART': '2024-11-11',
- 'DATA_START': '2024-11-17',
- 'TIME_START': '00:00:00',
- 'DATA_STOP': '2024-11-17',
- 'TIME_STOP': '23:59:59',
- 'fp': '\\\\10.54.132.21\\big_data\\LorenzoCanale\\'}]
+[
+  {
+    "GUID_FASCICOLO": "BB8FE451-792A-4A0C-9993-9AD17F928592",
+    "CANALE": "RAI TRE",
+    "PTIMESTART": "2024-11-11",
+    "DATA_START": "2024-11-17",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-17",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\"
+  }
+]
+
