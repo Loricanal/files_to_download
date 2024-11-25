@@ -4,10 +4,63 @@
     "PTIMESTART": "2024-11-11",
     "DATA_START": "2024-11-11",
     "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-11",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-12",
+    "DATA_START": "2024-11-12",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-12",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-13",
+    "DATA_START": "2024-11-13",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-13",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-14",
+    "DATA_START": "2024-11-14",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-14",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-15",
+    "DATA_START": "2024-11-15",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-15",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-16",
+    "DATA_START": "2024-11-16",
+    "TIME_START": "00:00:00",
+    "DATA_STOP": "2024-11-16",
+    "TIME_STOP": "23:59:59",
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
+  },
+  {
+    "CANALE": "RAI UNO",
+    "PTIMESTART": "2024-11-17",
+    "DATA_START": "2024-11-17",
+    "TIME_START": "00:00:00",
     "DATA_STOP": "2024-11-17",
     "TIME_STOP": "23:59:59",
-    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\"
+    "fp": "\\\\10.54.132.21\\big_data\\LorenzoCanale\\\\"
   }
 ]
-
 
