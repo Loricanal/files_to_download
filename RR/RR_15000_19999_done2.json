@@ -1,0 +1,97 @@
+[
+  {
+    "GUID_FASCICOLO": "251F2A71-2E04-4D07-AC57-E1F8260EAF25",
+    "CANALE": "RAISTORIA",
+    "DATA_START": "2013-11-07",
+    "DATA_STOP": "2013-11-07",
+    "TIME_START": "20:04:58:05",
+    "TIME_STOP": "21:05:06:05",
+    "PTIMESTART": "2013-11-07",
+    "movieURL": [
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1903_fb7cbb9f-fc9f-461e-a7d5-4ef22195d1df.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1908_6d4226fa-6df1-4d62-a386-ad76a1c8a651.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1913_85e58af6-3497-4ace-8083-7c3024eb1019.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1918_fa83a2bb-aa3a-4363-a69e-b17a143009c8.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1923_2c9251c7-5564-48db-b322-32e74d0fe25f.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1928_d5721a92-533d-4ecf-8606-91337ddebcb1.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1933_30e0574b-7e9c-42f8-9959-c23e7e254d5a.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1938_09524618-d8a0-44ae-abed-30f78eac4c55.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1943_b2953276-a2a2-423c-a113-d62139689957.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1948_a9d5d49f-62ab-4638-a145-d95996ecab3a.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1953_93a2cafb-017e-4a9d-8605-4ce121e3a36b.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_1958_7b57f81f-d0eb-480b-927e-e81c38bd9dba.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/11/07/raistoria_20131107_2003_f6c9e5c2-41cf-4d86-af19-d23145e7d768.mp4"
+    ],
+    "movieStart": [
+      "00:01:46.776",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000"
+    ]
+  },
+  {
+    "GUID_FASCICOLO": "791B6109-047E-4E3C-8967-EBF527F818FB",
+    "CANALE": "RAISTORIA",
+    "DATA_START": "2013-10-30",
+    "DATA_STOP": "2013-10-30",
+    "TIME_START": "20:06:43:00",
+    "TIME_STOP": "21:03:28:02",
+    "PTIMESTART": "2013-10-30",
+    "movieURL": [
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1902_f5589570-fd9b-49fc-83ed-8e53a93b32f8.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1907_cfbaca14-f9cd-47ed-9e7d-4da85f801557.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1912_905a8c8a-cdb7-495f-bef3-2846d8b7aeaf.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1917_727cde71-2ed1-4e8e-871a-9b98a82cea88.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1922_9dbd0eeb-ace9-4834-b958-6595d7fe041a.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1927_e61478b3-3900-4e5e-8da5-8aa02f66dea6.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1932_2494a2bb-36e7-4325-af93-ab62d6845b93.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1937_80bd7d26-99c5-4de6-beff-39c7d18c9060.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1942_129173f4-a014-464d-b2d3-f88ed164b183.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1947_bc63c0c3-0682-4f76-bc98-4391c0d922d3.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1952_8b31dfa0-2bdc-42c9-b1e6-8ef6b9216868.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_1957_208c54f0-4448-4b08-8657-39018961bcbf.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/raistoria/2013/10/30/raistoria_20131030_2002_ac3afe29-7843-4191-bc00-a140d8278325.mp4"
+    ],
+    "movieStart": [
+      "00:03:49.900",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000"
+    ]
+  },
+  {
+    "GUID_FASCICOLO": "04FFDD88-A687-42FC-8144-46142F2DBEB0",
+    "CANALE": "RAI5",
+    "DATA_START": "2013-09-08",
+    "DATA_STOP": "2013-09-08",
+    "TIME_START": "04:29:15:00",
+    "TIME_STOP": "04:34:37:21",
+    "PTIMESTART": "2013-09-08",
+    "movieURL": [
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2013/09/08/rai5_20130908_0226_91a8b3e1-17ef-4675-b688-0b106acfabfa.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2013/09/08/rai5_20130908_0231_21f58762-c08b-4496-a75c-fa4301002325.mp4"
+    ],
+    "movieStart": [
+      "00:02:34.130",
+      "00:00:00.000"
+    ]
+  }
+]
