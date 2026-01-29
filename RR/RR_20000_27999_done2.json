@@ -1,0 +1,41 @@
+[
+  {
+    "GUID_FASCICOLO": "3831FD81-927A-4F8B-9553-0AD7EA75F3C2",
+    "CANALE": "RAI5",
+    "DATA_START": "2014-01-25",
+    "DATA_STOP": "2014-01-25",
+    "TIME_START": "06:30:20:00",
+    "TIME_STOP": "07:29:35:00",
+    "PTIMESTART": "2014-01-25",
+    "movieURL": [
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0528_1d17f031-9d33-4516-b5d4-ee1dfd8b11a9.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0533_8c6ac63e-fb74-47ba-a02d-2d5f6c0273af.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0538_dbc6613a-f833-4754-82ed-e6377bd90e7c.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0543_cccd7c99-b1b8-4edc-b7c9-2343ade89ea8.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0548_db224aab-4b56-4815-a507-0f56fd3938f7.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0553_0e931938-bebb-4e71-8e91-06e49316d302.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0558_aa79e7ac-c530-4525-bae4-d3b5cb6121a2.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0603_362645f0-ba30-4ef0-b0f2-90a4561ec7e6.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0608_f3da4a04-8f6f-49a0-82bf-11f0bacc2beb.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0613_b67c0be0-9114-4fdd-97de-252d1dd12d4a.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0618_e53156bd-6c28-42f5-bd3c-34860252fc2e.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0623_829399f7-4de6-4aa7-890c-6f0413cfa6d4.mp4",
+      "http://streamMp4.servizi.rai.it/ICTMovie_ARCHIVE_1_RM/tv/rai/rai5/2014/01/25/rai5_20140125_0628_a0e8f084-cf60-4ed5-919a-51fd0026adb0.mp4"
+    ],
+    "movieStart": [
+      "00:01:38.206",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000",
+      "00:00:00.000"
+    ]
+  }
+]
