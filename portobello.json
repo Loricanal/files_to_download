@@ -1,0 +1,1649 @@
+[
+  {
+    "GUID_FASCICOLO": "1",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-22",
+    "DATA_STOP": "1987-05-22",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:55:01:00",
+    "PTIMESTART": "1987-05-22"
+  },
+  {
+    "GUID_FASCICOLO": "5",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-17",
+    "DATA_STOP": "1987-04-17",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:57:41:00",
+    "PTIMESTART": "1987-04-17"
+  },
+  {
+    "GUID_FASCICOLO": "18",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-20",
+    "DATA_STOP": "1987-03-20",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:47:34:00",
+    "PTIMESTART": "1987-03-20"
+  },
+  {
+    "GUID_FASCICOLO": "33",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-03-31",
+    "DATA_STOP": "1978-03-31",
+    "TIME_START": "00:00:08:00",
+    "TIME_STOP": "00:11:50:00",
+    "PTIMESTART": "1978-03-31"
+  },
+  {
+    "GUID_FASCICOLO": "49",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-03-31",
+    "DATA_STOP": "1978-03-31",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-03-31"
+  },
+  {
+    "GUID_FASCICOLO": "54",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-03-16",
+    "DATA_STOP": "1979-03-16",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-03-16"
+  },
+  {
+    "GUID_FASCICOLO": "57",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-15",
+    "DATA_STOP": "1978-12-15",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-12-15"
+  },
+  {
+    "GUID_FASCICOLO": "58",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-03-03",
+    "DATA_STOP": "1978-03-03",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-03-03"
+  },
+  {
+    "GUID_FASCICOLO": "63",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-02-02",
+    "DATA_STOP": "1979-02-02",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-02-02"
+  },
+  {
+    "GUID_FASCICOLO": "64",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-02-17",
+    "DATA_STOP": "1978-02-17",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-02-17"
+  },
+  {
+    "GUID_FASCICOLO": "66",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-11-17",
+    "DATA_STOP": "1978-11-17",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-11-17"
+  },
+  {
+    "GUID_FASCICOLO": "67",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-02-10",
+    "DATA_STOP": "1978-02-10",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-02-10"
+  },
+  {
+    "GUID_FASCICOLO": "69",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-01-19",
+    "DATA_STOP": "1979-01-19",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-01-19"
+  },
+  {
+    "GUID_FASCICOLO": "70",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1980-12-12",
+    "DATA_STOP": "1980-12-12",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1980-12-12"
+  },
+  {
+    "GUID_FASCICOLO": "72",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-29",
+    "DATA_STOP": "1978-12-29",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-12-29"
+  },
+  {
+    "GUID_FASCICOLO": "77",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-03-30",
+    "DATA_STOP": "1979-03-30",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-03-30"
+  },
+  {
+    "GUID_FASCICOLO": "78",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-07-29",
+    "DATA_STOP": "1977-07-29",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-07-29"
+  },
+  {
+    "GUID_FASCICOLO": "79",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1980-12-26",
+    "DATA_STOP": "1980-12-26",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1980-12-26"
+  },
+  {
+    "GUID_FASCICOLO": "83",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-02-23",
+    "DATA_STOP": "1979-02-23",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-02-23"
+  },
+  {
+    "GUID_FASCICOLO": "84",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-02-03",
+    "DATA_STOP": "1978-02-03",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-02-03"
+  },
+  {
+    "GUID_FASCICOLO": "88",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-01-26",
+    "DATA_STOP": "1979-01-26",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-01-26"
+  },
+  {
+    "GUID_FASCICOLO": "89",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-08",
+    "DATA_STOP": "1978-12-08",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-12-08"
+  },
+  {
+    "GUID_FASCICOLO": "90",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-12-30",
+    "DATA_STOP": "1977-12-30",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "91",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-11-24",
+    "DATA_STOP": "1978-11-24",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-11-24"
+  },
+  {
+    "GUID_FASCICOLO": "92",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-01-05",
+    "DATA_STOP": "1979-01-05",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-01-05"
+  },
+  {
+    "GUID_FASCICOLO": "93",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-22",
+    "DATA_STOP": "1978-12-22",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-12-22"
+  },
+  {
+    "GUID_FASCICOLO": "94",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": null,
+    "DATA_STOP": null,
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:23:02:19",
+    "PTIMESTART": null
+  },
+  {
+    "GUID_FASCICOLO": "96",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-02-24",
+    "DATA_STOP": "1978-02-24",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-02-24"
+  },
+  {
+    "GUID_FASCICOLO": "97",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1980-12-19",
+    "DATA_STOP": "1980-12-19",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1980-12-19"
+  },
+  {
+    "GUID_FASCICOLO": "99",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-07-01",
+    "DATA_STOP": "1977-07-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-07-01"
+  },
+  {
+    "GUID_FASCICOLO": "104",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-03-10",
+    "DATA_STOP": "1978-03-10",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-03-10"
+  },
+  {
+    "GUID_FASCICOLO": "108",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-01-12",
+    "DATA_STOP": "1979-01-12",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-01-12"
+  },
+  {
+    "GUID_FASCICOLO": "109",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-03-02",
+    "DATA_STOP": "1979-03-02",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-03-02"
+  },
+  {
+    "GUID_FASCICOLO": "110",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-01",
+    "DATA_STOP": "1978-12-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-12-01"
+  },
+  {
+    "GUID_FASCICOLO": "111",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-07-08",
+    "DATA_STOP": "1977-07-08",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-07-08"
+  },
+  {
+    "GUID_FASCICOLO": "112",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-02-09",
+    "DATA_STOP": "1979-02-09",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-02-09"
+  },
+  {
+    "GUID_FASCICOLO": "115",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-07-15",
+    "DATA_STOP": "1977-07-15",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-07-15"
+  },
+  {
+    "GUID_FASCICOLO": "116",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-03-17",
+    "DATA_STOP": "1978-03-17",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1978-03-17"
+  },
+  {
+    "GUID_FASCICOLO": "118",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-03-09",
+    "DATA_STOP": "1979-03-09",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-03-09"
+  },
+  {
+    "GUID_FASCICOLO": "120",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1979-03-23",
+    "DATA_STOP": "1979-03-23",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1979-03-23"
+  },
+  {
+    "GUID_FASCICOLO": "121",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-07-22",
+    "DATA_STOP": "1977-07-22",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-07-22"
+  },
+  {
+    "GUID_FASCICOLO": "124",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-03-02",
+    "DATA_STOP": "1982-03-02",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:13:55:00",
+    "PTIMESTART": "1982-03-02"
+  },
+  {
+    "GUID_FASCICOLO": "125",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-01-27",
+    "DATA_STOP": "1981-01-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:11:00",
+    "PTIMESTART": "1981-01-27"
+  },
+  {
+    "GUID_FASCICOLO": "126",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-11-19",
+    "DATA_STOP": "1981-11-19",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:58:00",
+    "PTIMESTART": "1981-11-19"
+  },
+  {
+    "GUID_FASCICOLO": "127",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-11-27",
+    "DATA_STOP": "1981-11-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:58:00",
+    "PTIMESTART": "1981-11-27"
+  },
+  {
+    "GUID_FASCICOLO": "128",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-12-25",
+    "DATA_STOP": "1981-12-25",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:08:42:00",
+    "PTIMESTART": "1981-12-25"
+  },
+  {
+    "GUID_FASCICOLO": "129",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-04-30",
+    "DATA_STOP": "1987-04-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1987-04-30"
+  },
+  {
+    "GUID_FASCICOLO": "130",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-03-12",
+    "DATA_STOP": "1982-03-12",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:53:00",
+    "PTIMESTART": "1982-03-12"
+  },
+  {
+    "GUID_FASCICOLO": "131",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1983-12-31",
+    "DATA_STOP": "1983-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:06:58:00",
+    "PTIMESTART": "1983-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "132",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-01-23",
+    "DATA_STOP": "1981-01-23",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:09:34:00",
+    "PTIMESTART": "1981-01-23"
+  },
+  {
+    "GUID_FASCICOLO": "133",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-02-05",
+    "DATA_STOP": "1982-02-05",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:06:00",
+    "PTIMESTART": "1982-02-05"
+  },
+  {
+    "GUID_FASCICOLO": "134",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-02-20",
+    "DATA_STOP": "1981-02-20",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1981-02-20"
+  },
+  {
+    "GUID_FASCICOLO": "135",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-26",
+    "DATA_STOP": "1980-12-26",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:15:28:11",
+    "PTIMESTART": "1980-12-26"
+  },
+  {
+    "GUID_FASCICOLO": "136",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-06-05",
+    "DATA_STOP": "1987-06-05",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:01:00",
+    "PTIMESTART": "1987-06-05"
+  },
+  {
+    "GUID_FASCICOLO": "137",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-01-11",
+    "DATA_STOP": "1982-01-11",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:40:00",
+    "PTIMESTART": "1982-01-11"
+  },
+  {
+    "GUID_FASCICOLO": "138",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-12-11",
+    "DATA_STOP": "1981-12-11",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:08:00",
+    "PTIMESTART": "1981-12-11"
+  },
+  {
+    "GUID_FASCICOLO": "139",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-04-16",
+    "DATA_STOP": "1982-04-16",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:50:00",
+    "PTIMESTART": "1982-04-16"
+  },
+  {
+    "GUID_FASCICOLO": "140",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-05-22",
+    "DATA_STOP": "1987-05-22",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1987-05-22"
+  },
+  {
+    "GUID_FASCICOLO": "141",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-12-04",
+    "DATA_STOP": "1981-12-04",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:14:00",
+    "PTIMESTART": "1981-12-04"
+  },
+  {
+    "GUID_FASCICOLO": "142",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:04:21:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "143",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-12-31",
+    "DATA_STOP": "1982-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:16:32:00",
+    "PTIMESTART": "1982-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "144",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-04-23",
+    "DATA_STOP": "1982-04-23",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:45:00",
+    "PTIMESTART": "1982-04-23"
+  },
+  {
+    "GUID_FASCICOLO": "145",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-12-31",
+    "DATA_STOP": "1981-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:04:00",
+    "PTIMESTART": "1981-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "146",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-04-15",
+    "DATA_STOP": "1987-04-15",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:04:21:00",
+    "PTIMESTART": "1987-04-15"
+  },
+  {
+    "GUID_FASCICOLO": "147",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-02-13",
+    "DATA_STOP": "1981-02-13",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1981-02-13"
+  },
+  {
+    "GUID_FASCICOLO": "148",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-03-06",
+    "DATA_STOP": "1981-03-06",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1981-03-06"
+  },
+  {
+    "GUID_FASCICOLO": "149",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-04-09",
+    "DATA_STOP": "1982-04-09",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:55:00",
+    "PTIMESTART": "1982-04-09"
+  },
+  {
+    "GUID_FASCICOLO": "151",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-12-31",
+    "DATA_STOP": "1981-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:24:21:00",
+    "PTIMESTART": "1981-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "152",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-02-26",
+    "DATA_STOP": "1982-02-26",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:01:00",
+    "PTIMESTART": "1982-02-26"
+  },
+  {
+    "GUID_FASCICOLO": "153",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-04-30",
+    "DATA_STOP": "1982-04-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1982-04-30"
+  },
+  {
+    "GUID_FASCICOLO": "154",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1983-05-27",
+    "DATA_STOP": "1983-05-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1983-05-27"
+  },
+  {
+    "GUID_FASCICOLO": "155",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-05-07",
+    "DATA_STOP": "1982-05-07",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:32:00",
+    "PTIMESTART": "1982-05-07"
+  },
+  {
+    "GUID_FASCICOLO": "156",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-03-05",
+    "DATA_STOP": "1982-03-05",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:58:00",
+    "PTIMESTART": "1982-03-05"
+  },
+  {
+    "GUID_FASCICOLO": "157",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-12-31",
+    "DATA_STOP": "1987-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:04:32:00",
+    "PTIMESTART": "1987-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "158",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-04-24",
+    "DATA_STOP": "1987-04-24",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:01:00",
+    "PTIMESTART": "1987-04-24"
+  },
+  {
+    "GUID_FASCICOLO": "159",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-02-27",
+    "DATA_STOP": "1981-02-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1981-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "160",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-03-06",
+    "DATA_STOP": "1987-03-06",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:01:00",
+    "PTIMESTART": "1987-03-06"
+  },
+  {
+    "GUID_FASCICOLO": "161",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-04-02",
+    "DATA_STOP": "1982-04-02",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:55:00",
+    "PTIMESTART": "1982-04-02"
+  },
+  {
+    "GUID_FASCICOLO": "162",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-02-27",
+    "DATA_STOP": "1981-02-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1981-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "163",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-12-16",
+    "DATA_STOP": "1982-12-16",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:40:00",
+    "PTIMESTART": "1982-12-16"
+  },
+  {
+    "GUID_FASCICOLO": "164",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-11",
+    "DATA_STOP": "1980-12-11",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1980-12-11"
+  },
+  {
+    "GUID_FASCICOLO": "165",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1983-12-31",
+    "DATA_STOP": "1983-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:28:00",
+    "PTIMESTART": "1983-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "166",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-01-22",
+    "DATA_STOP": "1982-01-22",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:05:03:00",
+    "PTIMESTART": "1982-01-22"
+  },
+  {
+    "GUID_FASCICOLO": "167",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-12-31",
+    "DATA_STOP": "1982-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:46:00",
+    "PTIMESTART": "1982-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "168",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-03-20",
+    "DATA_STOP": "1981-03-20",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1981-03-20"
+  },
+  {
+    "GUID_FASCICOLO": "169",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-02-03",
+    "DATA_STOP": "1979-02-03",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1979-02-03"
+  },
+  {
+    "GUID_FASCICOLO": "170",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-01-15",
+    "DATA_STOP": "1982-01-15",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:53:00",
+    "PTIMESTART": "1982-01-15"
+  },
+  {
+    "GUID_FASCICOLO": "172",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-12-01",
+    "DATA_STOP": "1978-12-01",
+    "TIME_START": "00:00:08:00",
+    "TIME_STOP": "00:11:32:00",
+    "PTIMESTART": "1978-12-01"
+  },
+  {
+    "GUID_FASCICOLO": "173",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-02-02",
+    "DATA_STOP": "1979-02-02",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:29:00",
+    "PTIMESTART": "1979-02-02"
+  },
+  {
+    "GUID_FASCICOLO": "174",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-01-18",
+    "DATA_STOP": "1979-01-18",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:55:00",
+    "PTIMESTART": "1979-01-18"
+  },
+  {
+    "GUID_FASCICOLO": "175",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-12-31",
+    "DATA_STOP": "1977-12-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1977-12-31"
+  },
+  {
+    "GUID_FASCICOLO": "176",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-12-29",
+    "DATA_STOP": "1978-12-29",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1978-12-29"
+  },
+  {
+    "GUID_FASCICOLO": "177",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:01:45:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "178",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-07-01",
+    "DATA_STOP": "1977-07-01",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:00:06:00",
+    "PTIMESTART": "1977-07-01"
+  },
+  {
+    "GUID_FASCICOLO": "179",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-03-16",
+    "DATA_STOP": "1979-03-16",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:05:14:00",
+    "PTIMESTART": "1979-03-16"
+  },
+  {
+    "GUID_FASCICOLO": "180",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-03-10",
+    "DATA_STOP": "1978-03-10",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:05:14:00",
+    "PTIMESTART": "1978-03-10"
+  },
+  {
+    "GUID_FASCICOLO": "181",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-03-23",
+    "DATA_STOP": "1979-03-23",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1979-03-23"
+  },
+  {
+    "GUID_FASCICOLO": "182",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-05-27",
+    "DATA_STOP": "1977-05-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:09:08:00",
+    "PTIMESTART": "1977-05-27"
+  },
+  {
+    "GUID_FASCICOLO": "183",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "184",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-01-04",
+    "DATA_STOP": "1978-01-04",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1978-01-04"
+  },
+  {
+    "GUID_FASCICOLO": "185",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-03-17",
+    "DATA_STOP": "1978-03-17",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:55:00",
+    "PTIMESTART": "1978-03-17"
+  },
+  {
+    "GUID_FASCICOLO": "186",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1987-06-26",
+    "DATA_STOP": "1987-06-26",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:02:00:00",
+    "PTIMESTART": "1987-06-26"
+  },
+  {
+    "GUID_FASCICOLO": "187",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-11-25",
+    "DATA_STOP": "1978-11-25",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:04:21:00",
+    "PTIMESTART": "1978-11-25"
+  },
+  {
+    "GUID_FASCICOLO": "188",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-01-02",
+    "DATA_STOP": "1981-01-02",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:29:00",
+    "PTIMESTART": "1981-01-02"
+  },
+  {
+    "GUID_FASCICOLO": "189",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-02-03",
+    "DATA_STOP": "1978-02-03",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:09:34:00",
+    "PTIMESTART": "1978-02-03"
+  },
+  {
+    "GUID_FASCICOLO": "190",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "191",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-11-16",
+    "DATA_STOP": "1978-11-16",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1978-11-16"
+  },
+  {
+    "GUID_FASCICOLO": "192",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-02-28",
+    "DATA_STOP": "1978-02-28",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:00:06:00",
+    "PTIMESTART": "1978-02-28"
+  },
+  {
+    "GUID_FASCICOLO": "193",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-12-22",
+    "DATA_STOP": "1978-12-22",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:29:00",
+    "PTIMESTART": "1978-12-22"
+  },
+  {
+    "GUID_FASCICOLO": "194",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-07-21",
+    "DATA_STOP": "1977-07-21",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1977-07-21"
+  },
+  {
+    "GUID_FASCICOLO": "195",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-02-24",
+    "DATA_STOP": "1978-02-24",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1978-02-24"
+  },
+  {
+    "GUID_FASCICOLO": "196",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-12-08",
+    "DATA_STOP": "1977-12-08",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:09:34:00",
+    "PTIMESTART": "1977-12-08"
+  },
+  {
+    "GUID_FASCICOLO": "197",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-01-04",
+    "DATA_STOP": "1979-01-04",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:08:16:00",
+    "PTIMESTART": "1979-01-04"
+  },
+  {
+    "GUID_FASCICOLO": "198",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-07-14",
+    "DATA_STOP": "1977-07-14",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1977-07-14"
+  },
+  {
+    "GUID_FASCICOLO": "199",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-06-03",
+    "DATA_STOP": "1977-06-03",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:03:00",
+    "PTIMESTART": "1977-06-03"
+  },
+  {
+    "GUID_FASCICOLO": "200",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-07-08",
+    "DATA_STOP": "1977-07-08",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:02:37:00",
+    "PTIMESTART": "1977-07-08"
+  },
+  {
+    "GUID_FASCICOLO": "201",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-06-16",
+    "DATA_STOP": "1977-06-16",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:00:06:00",
+    "PTIMESTART": "1977-06-16"
+  },
+  {
+    "GUID_FASCICOLO": "202",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1979-01-11",
+    "DATA_STOP": "1979-01-11",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:29:00",
+    "PTIMESTART": "1979-01-11"
+  },
+  {
+    "GUID_FASCICOLO": "203",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-01-27",
+    "DATA_STOP": "1981-01-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:08:42:00",
+    "PTIMESTART": "1981-01-27"
+  },
+  {
+    "GUID_FASCICOLO": "204",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-05-25",
+    "DATA_STOP": "1977-05-25",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:00:06:00",
+    "PTIMESTART": "1977-05-25"
+  },
+  {
+    "GUID_FASCICOLO": "205",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:03:29:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "206",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1980-12-30",
+    "DATA_STOP": "1980-12-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:05:14:00",
+    "PTIMESTART": "1980-12-30"
+  },
+  {
+    "GUID_FASCICOLO": "207",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-05-01",
+    "DATA_STOP": "1977-05-01",
+    "TIME_START": "00:05:06:00",
+    "TIME_STOP": "00:05:54:00",
+    "PTIMESTART": "1977-05-01"
+  },
+  {
+    "GUID_FASCICOLO": "212",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-12-09",
+    "DATA_STOP": "1977-12-09",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-12-09"
+  },
+  {
+    "GUID_FASCICOLO": "217",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-12-02",
+    "DATA_STOP": "1977-12-02",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-12-02"
+  },
+  {
+    "GUID_FASCICOLO": "218",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1977-12-16",
+    "DATA_STOP": "1977-12-16",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1977-12-16"
+  },
+  {
+    "GUID_FASCICOLO": "226",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-03-31",
+    "DATA_STOP": "1978-03-31",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:11:19:00",
+    "PTIMESTART": "1978-03-31"
+  },
+  {
+    "GUID_FASCICOLO": "227",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1900-01-01",
+    "DATA_STOP": "1900-01-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1900-01-01"
+  },
+  {
+    "GUID_FASCICOLO": "228",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1978-11-30",
+    "DATA_STOP": "1978-11-30",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "00:12:11:00",
+    "PTIMESTART": "1978-11-30"
+  },
+  {
+    "GUID_FASCICOLO": "230",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": null,
+    "DATA_STOP": null,
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:13:27:02",
+    "PTIMESTART": null
+  },
+  {
+    "GUID_FASCICOLO": "238",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-02-13",
+    "DATA_STOP": "1981-02-13",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-02-13"
+  },
+  {
+    "GUID_FASCICOLO": "239",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-02-06",
+    "DATA_STOP": "1981-02-06",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-02-06"
+  },
+  {
+    "GUID_FASCICOLO": "240",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-03-06",
+    "DATA_STOP": "1981-03-06",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-03-06"
+  },
+  {
+    "GUID_FASCICOLO": "246",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1982-01-22",
+    "DATA_STOP": "1982-01-22",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:29:24:20",
+    "PTIMESTART": "1982-01-22"
+  },
+  {
+    "GUID_FASCICOLO": "249",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-02-27",
+    "DATA_STOP": "1981-02-27",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "251",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-01-23",
+    "DATA_STOP": "1981-01-23",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-01-23"
+  },
+  {
+    "GUID_FASCICOLO": "252",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-02-20",
+    "DATA_STOP": "1981-02-20",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-02-20"
+  },
+  {
+    "GUID_FASCICOLO": "256",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-03-13",
+    "DATA_STOP": "1981-03-13",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-03-13"
+  },
+  {
+    "GUID_FASCICOLO": "259",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-01-16",
+    "DATA_STOP": "1981-01-16",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-01-16"
+  },
+  {
+    "GUID_FASCICOLO": "261",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-03-20",
+    "DATA_STOP": "1981-03-20",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-03-20"
+  },
+  {
+    "GUID_FASCICOLO": "263",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-01-09",
+    "DATA_STOP": "1981-01-09",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-01-09"
+  },
+  {
+    "GUID_FASCICOLO": "264",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-01-30",
+    "DATA_STOP": "1981-01-30",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:00:01:00",
+    "PTIMESTART": "1981-01-30"
+  },
+  {
+    "GUID_FASCICOLO": "280",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1981-02-27",
+    "DATA_STOP": "1981-02-27",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:20:43:06",
+    "PTIMESTART": "1981-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "291",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1900-01-01",
+    "DATA_STOP": "1900-01-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:12:13:00",
+    "PTIMESTART": "1900-01-01"
+  },
+  {
+    "GUID_FASCICOLO": "330",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-05-14",
+    "DATA_STOP": "1977-05-14",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:05:13:02",
+    "PTIMESTART": "1977-05-14"
+  },
+  {
+    "GUID_FASCICOLO": "332",
+    "CANALE": "NON DEFINITO",
+    "DATA_START": "1977-05-14",
+    "DATA_STOP": "1977-05-14",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "00:04:50:00",
+    "PTIMESTART": "1977-05-14"
+  },
+  {
+    "GUID_FASCICOLO": "392",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1982-01-22",
+    "DATA_STOP": "1982-01-22",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:28:52:00",
+    "PTIMESTART": "1982-01-22"
+  },
+  {
+    "GUID_FASCICOLO": "395",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1982-01-01",
+    "DATA_STOP": "1982-01-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:38:05:00",
+    "PTIMESTART": "1982-01-01"
+  },
+  {
+    "GUID_FASCICOLO": "396",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-08",
+    "DATA_STOP": "1987-05-08",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:43:53:00",
+    "PTIMESTART": "1987-05-08"
+  },
+  {
+    "GUID_FASCICOLO": "397",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-22",
+    "DATA_STOP": "1987-05-22",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:41:30:00",
+    "PTIMESTART": "1987-05-22"
+  },
+  {
+    "GUID_FASCICOLO": "398",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-20",
+    "DATA_STOP": "1987-03-20",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:41:45:00",
+    "PTIMESTART": "1987-03-20"
+  },
+  {
+    "GUID_FASCICOLO": "400",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-13",
+    "DATA_STOP": "1987-03-13",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:52:15:00",
+    "PTIMESTART": "1987-03-13"
+  },
+  {
+    "GUID_FASCICOLO": "402",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-02-20",
+    "DATA_STOP": "1987-02-20",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:59:16:00",
+    "PTIMESTART": "1987-02-20"
+  },
+  {
+    "GUID_FASCICOLO": "403",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-01",
+    "DATA_STOP": "1987-05-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:58:15:00",
+    "PTIMESTART": "1987-05-01"
+  },
+  {
+    "GUID_FASCICOLO": "404",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-17",
+    "DATA_STOP": "1987-04-17",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:51:45:00",
+    "PTIMESTART": "1987-04-17"
+  },
+  {
+    "GUID_FASCICOLO": "405",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-02-27",
+    "DATA_STOP": "1987-02-27",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:48:30:00",
+    "PTIMESTART": "1987-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "406",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-06",
+    "DATA_STOP": "1987-03-06",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:49:05:00",
+    "PTIMESTART": "1987-03-06"
+  },
+  {
+    "GUID_FASCICOLO": "407",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-10",
+    "DATA_STOP": "1987-04-10",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:43:31:00",
+    "PTIMESTART": "1987-04-10"
+  },
+  {
+    "GUID_FASCICOLO": "408",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-24",
+    "DATA_STOP": "1987-04-24",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:58:25:00",
+    "PTIMESTART": "1987-04-24"
+  },
+  {
+    "GUID_FASCICOLO": "409",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-27",
+    "DATA_STOP": "1987-03-27",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:51:50:00",
+    "PTIMESTART": "1987-03-27"
+  },
+  {
+    "GUID_FASCICOLO": "410",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-03",
+    "DATA_STOP": "1987-04-03",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:51:45:00",
+    "PTIMESTART": "1987-04-03"
+  },
+  {
+    "GUID_FASCICOLO": "417",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1982-01-08",
+    "DATA_STOP": "1982-01-08",
+    "TIME_START": "20:40:00:00",
+    "TIME_STOP": "20:40:01:00",
+    "PTIMESTART": "1982-01-08"
+  },
+  {
+    "GUID_FASCICOLO": "420",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1982-01-15",
+    "DATA_STOP": "1982-01-15",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:21:14:00",
+    "PTIMESTART": "1982-01-15"
+  },
+  {
+    "GUID_FASCICOLO": "434",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-01-20",
+    "DATA_STOP": "1978-01-20",
+    "TIME_START": "20:40:00:00",
+    "TIME_STOP": "21:00:00:00",
+    "PTIMESTART": "1978-01-20"
+  },
+  {
+    "GUID_FASCICOLO": "455",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1982-01-29",
+    "DATA_STOP": "1982-01-29",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:26:29:00",
+    "PTIMESTART": "1982-01-29"
+  },
+  {
+    "GUID_FASCICOLO": "478",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-01",
+    "DATA_STOP": "1987-05-01",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "02:05:24:00",
+    "PTIMESTART": "1987-05-01"
+  },
+  {
+    "GUID_FASCICOLO": "507",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-24",
+    "DATA_STOP": "1987-04-24",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:58:32:00",
+    "PTIMESTART": "1987-04-24"
+  },
+  {
+    "GUID_FASCICOLO": "524",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-01-06",
+    "DATA_STOP": "1978-01-06",
+    "TIME_START": "20:40:00:00",
+    "TIME_STOP": "20:40:01:00",
+    "PTIMESTART": "1978-01-06"
+  },
+  {
+    "GUID_FASCICOLO": "526",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-01-13",
+    "DATA_STOP": "1978-01-13",
+    "TIME_START": "20:40:00:00",
+    "TIME_STOP": "20:40:01:00",
+    "PTIMESTART": "1978-01-13"
+  },
+  {
+    "GUID_FASCICOLO": "527",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1978-01-27",
+    "DATA_STOP": "1978-01-27",
+    "TIME_START": "20:40:00:00",
+    "TIME_STOP": "20:40:01:00",
+    "PTIMESTART": "1978-01-27"
+  },
+  {
+    "GUID_FASCICOLO": "549",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-04-03",
+    "DATA_STOP": "1987-04-03",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:49:30:00",
+    "PTIMESTART": "1987-04-03"
+  },
+  {
+    "GUID_FASCICOLO": "550",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-02-27",
+    "DATA_STOP": "1987-02-27",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:46:26:00",
+    "PTIMESTART": "1987-02-27"
+  },
+  {
+    "GUID_FASCICOLO": "568",
+    "CANALE": "RAI STORIA",
+    "DATA_START": "2022-04-24",
+    "DATA_STOP": "2022-04-24",
+    "TIME_START": "18:57:00:00",
+    "TIME_STOP": "19:09:52:00",
+    "PTIMESTART": "2022-04-24"
+  },
+  {
+    "GUID_FASCICOLO": "578",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-05-08",
+    "DATA_STOP": "1987-05-08",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:43:40:00",
+    "PTIMESTART": "1987-05-08"
+  },
+  {
+    "GUID_FASCICOLO": "581",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-06",
+    "DATA_STOP": "1987-03-06",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:49:29:00",
+    "PTIMESTART": "1987-03-06"
+  },
+  {
+    "GUID_FASCICOLO": "583",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1987-03-13",
+    "DATA_STOP": "1987-03-13",
+    "TIME_START": "00:00:01:00",
+    "TIME_STOP": "01:51:34:00",
+    "PTIMESTART": "1987-03-13"
+  },
+  {
+    "GUID_FASCICOLO": "749",
+    "CANALE": "RAI DUE",
+    "DATA_START": "1981-01-02",
+    "DATA_STOP": "1981-01-02",
+    "TIME_START": "00:00:00:00",
+    "TIME_STOP": "01:10:00:00",
+    "PTIMESTART": "1981-01-02"
+  },
+  {
+    "GUID_FASCICOLO": "1108",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-11-10",
+    "DATA_STOP": "2018-11-10",
+    "TIME_START": "20:43:50:00",
+    "TIME_STOP": "23:42:58:00",
+    "PTIMESTART": "2018-11-10"
+  },
+  {
+    "GUID_FASCICOLO": "1157",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-12-01",
+    "DATA_STOP": "2018-12-01",
+    "TIME_START": "20:40:01:00",
+    "TIME_STOP": "23:46:13:00",
+    "PTIMESTART": "2018-12-01"
+  },
+  {
+    "GUID_FASCICOLO": "1242",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-12-08",
+    "DATA_STOP": "2018-12-08",
+    "TIME_START": "20:44:56:00",
+    "TIME_STOP": "23:40:57:00",
+    "PTIMESTART": "2018-12-08"
+  },
+  {
+    "GUID_FASCICOLO": "1384",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-11-03",
+    "DATA_STOP": "2018-11-03",
+    "TIME_START": "20:43:16:00",
+    "TIME_STOP": "23:33:16:00",
+    "PTIMESTART": "2018-11-03"
+  },
+  {
+    "GUID_FASCICOLO": "1386",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-11-24",
+    "DATA_STOP": "2018-11-24",
+    "TIME_START": "20:38:23:00",
+    "TIME_STOP": "23:44:56:00",
+    "PTIMESTART": "2018-11-24"
+  },
+  {
+    "GUID_FASCICOLO": "1444",
+    "CANALE": "RAI UNO",
+    "DATA_START": "2018-10-27",
+    "DATA_STOP": "2018-10-27",
+    "TIME_START": "20:41:38:00",
+    "TIME_STOP": "00:03:01:00",
+    "PTIMESTART": "2018-10-27"
+  }
+]
